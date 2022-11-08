@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thyagodantas&show_icons=true&theme=radical&title_color=544bd2&text_color=ffffff&bg_color=424242&locale=en" alt="thyagodantas" /></p>
 
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thyagodantas&show_icons=true&theme=radical&title_color=544bd2&text_color=ffffff&bg_color=424242&locale=en&layout=compact" alt="thyagodantas" /></p>
+<p><img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thyagodantas&show_icons=true&theme=radical&title_color=544bd2&text_color=ffffff&bg_color=424242&locale=en&layout=compact" alt="thyagodantas" /></p>
 
 
 
