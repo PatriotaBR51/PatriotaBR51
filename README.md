@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thyagodantas&show_icons=true&theme=dark&locale=en" alt="thyagodantas" /></p>
 
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=thyagodantas&theme=dark" alt="thyagodantas" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thyagodantas&show_icons=true&theme=dark&locale=en" alt="thyagodantas" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
