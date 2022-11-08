@@ -23,9 +23,9 @@
 
 - ⚡ Fun fact **I think I have a great understanding of programming logic, which helps me solve the various problems that come up.**
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thyagodantas&show_icons=true&theme=dark&locale=en" alt="thyagodantas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thyagodantas&show_icons=true&theme=tokyonight&title_color=850000&text_color=ffffff&bg_color=424242&hide_border=true&locale=en&layout=compact" alt="thyagodantas" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thyagodantas&show_icons=true&theme=dark&locale=en&layout=compact" alt="thyagodantas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thyagodantas&show_icons=true&theme=tokyonight&title_color=850000&text_color=ffffff&bg_color=424242&hide_border=true&locale=en" alt="thyagodantas" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
