@@ -25,9 +25,9 @@
 
 <div>
   <a href="https://github.com/thyagodantas"></a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thyagodantas&show_icons=true&theme=dracula&title_color=544bd2&text_color=ffffff&bg_color=424242&locale=en" alt="thyagodantas" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=thyagodantas&show_icons=true&theme=dracula&title_color=544bd2&text_color=ffffff&bg_color=424242&locale=en" alt="thyagodantas" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thyagodantas&show_icons=true&theme=dracula&title_color=544bd2&text_color=ffffff&bg_color=424242&locale=en&layout=compact" alt="thyagodantas" /> 
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thyagodantas&show_icons=true&theme=dracula&title_color=544bd2&text_color=ffffff&bg_color=424242&locale=en&layout=compact" alt="thyagodantas" /> 
 </div>
 
 
