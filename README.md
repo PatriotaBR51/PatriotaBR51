@@ -5,19 +5,19 @@
 
 - 🔭 I’m currently working on [-](-)
 
-- 🌱 I’m currently learning **HTML, CSS, Bootstrap, JS, PHP, Python and Ruby**
+- 🌱 I’m currently learning **HTML, CSS, Bootstrap, Node.JS, PHP and Java**
 
 - 👯 I’m looking to collaborate on [-](-)
 
 - 🤝 I’m looking for help with [-](-)
 
-- 👨‍💻 All of my projects are available at [I'm developing... 😉](I'm developing... 😉)
+- 👨‍💻 All of my projects are available at [I'm developing... 😉](Pixelthree website in PHP and Node.JS)
 
 - 📝 I regularly write articles on [I'm developing... 😉](I'm developing... 😉)
 
-- 💬 Ask me about **JavaScript and its frameworks**
+- 💬 Ask me about **JavaScript and its frameworks, PHP and Java**
 
-- 📫 How to reach me **thyago.dantas2017@gmail.com**
+- 📫 How to reach me **thyago.dantas@pixelthree.com.br**
 
 - 📄 Know about my experiences [I'm in development...💻](I'm in development...💻)
 
