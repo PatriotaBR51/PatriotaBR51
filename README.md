@@ -23,13 +23,6 @@
 
 - ⚡ Fun fact **I think I have a great understanding of programming logic, which helps me solve the various problems that come up.**
 
-<div>
-  <a href="https://github.com/thyagodantas"></a>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=thyagodantas&show_icons=true&theme=dracula&title_color=544bd2&text_color=ffffff&bg_color=424242&locale=en" alt="thyagodantas" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thyagodantas&show_icons=true&theme=dracula&title_color=544bd2&text_color=ffffff&bg_color=424242&locale=en&layout=compact" alt="thyagodantas" /> 
-</div>
-
 
 
 
