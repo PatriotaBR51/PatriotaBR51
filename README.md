@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **NodeJS and its frameworks**
 
-- 📫 How to reach me **thyago.dantas@gmail.com**
+- 📫 How to reach me **thyago.dantas2017@gmail.com**
 
 - 📄 Know about my experiences [I'm in development...💻]
 
@@ -45,6 +45,4 @@
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
-
-![snake gif](https://github.com/thyagodantas/thyagodantas/blob/output/github-contribution-grid-snake.svg)
 
