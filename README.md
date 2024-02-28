@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Thyago Dantas</h1>
-<h3 align="center">A passionate full stack student and developer from Brazil</h3>
+<h3 align="center">A passionate backend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thyagodantas&label=Profile%20views&color=ad0000&style=flat" alt="thyagodantas" /> </p>
 
 - 🔭 I’m currently working on [-](-)
 
-- 🌱 I’m currently learning **HTML, CSS, Bootstrap, Node.JS, PHP and Java**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on [-](-)
 
 - 🤝 I’m looking for help with [-](-)
 
-- 👨‍💻 All of my projects are available at [I'm developing... 😉](Pixelthree website in PHP and Node.JS)
+- 👨‍💻 All of my projects are available at [Repositories page]
 
-- 📝 I regularly write articles on [I'm developing... 😉](I'm developing... 😉)
+- 📝 I regularly write articles on [I'm developing... 😉]
 
-- 💬 Ask me about **JavaScript and its frameworks, PHP and Java**
+- 💬 Ask me about **NodeJS and its frameworks**
 
-- 📫 How to reach me **thyago.dantas@pixelthree.com.br**
+- 📫 How to reach me **thyago.dantas@gmail.com**
 
-- 📄 Know about my experiences [I'm in development...💻](I'm in development...💻)
+- 📄 Know about my experiences [I'm in development...💻]
 
 - ⚡ Fun fact **I think I have a great understanding of programming logic, which helps me solve the various problems that come up.**
 
