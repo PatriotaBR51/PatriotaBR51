@@ -1,21 +1,13 @@
 <h1 align="center">Hi 👋, I'm Thyago Dantas</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thyagodantas&label=Profile%20views&color=ad0000&style=flat" alt="thyagodantas" /> </p>
 
-- 🔭 I’m currently working on [-](-)
-
-- 🌱 I’m currently learning **Angular**
-
-- 👯 I’m looking to collaborate on [-](-)
-
-- 🤝 I’m looking for help with [-](-)
+- 🔭 I’m currently working on [Brazil Food Express](-)
 
 - 👨‍💻 All of my projects are available at [Repositories page]
 
-- 📝 I regularly write articles on [I'm developing... 😉]
-
-- 💬 Ask me about **NodeJS and its frameworks**
+- 💬 Ask me about **NodeJS and Angular**
 
 - 📫 How to reach me **thyago.dantas2017@gmail.com**
 
